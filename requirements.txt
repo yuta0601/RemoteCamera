@@ -1,0 +1,12 @@
+certifi==2020.12.5
+chardet==4.0.0
+Cython==0.29.21
+docutils==0.16
+idna==2.10
+Kivy==2.0.0
+Kivy-Garden==0.1.4
+numpy==1.19.4
+opencv-python==4.4.0.46
+Pygments==2.7.3
+requests==2.25.1
+urllib3==1.26.2
